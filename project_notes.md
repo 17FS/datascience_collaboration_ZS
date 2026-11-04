@@ -1,7 +1,7 @@
 # Data science collaboration
 
 ## Project question
-What question will our team investigate?
+Is smoking status associated with long COVID among adults?
 
 ## Team
 - 17FS: analysis and visualisation
